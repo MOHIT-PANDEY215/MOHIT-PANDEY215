@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohit Pandey</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit-pandey215&label=Profile%20views&color=0e75b6&style=flat" alt="mohit-pandey215" /> </p>
 
 - 🌱 I’m currently learning **Nextjs and ExpressJs**
 
